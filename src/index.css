@@ -1,0 +1,183 @@
+.first-div{
+  width:30%;
+  height:95%;
+  background-color: cadetblue;
+
+  border-color:black;
+  border-width: 2px;
+  position:fixed;
+}
+
+.second-div{
+  width:65%;
+  height:95%;
+  background-color: rgb(167, 247, 247);
+  border-color:crimson;
+  border-width: 2px;
+  position:fixed;
+  left:520px;
+
+}
+.btadd{
+  width:120px;
+  height:50px;
+  border-radius: 5px;
+  background-color:white;
+  color:rgb(2, 36, 36);
+  font-size: medium;
+  left:350px;
+  top:40px;
+  position:absolute;
+  
+}
+.btsbmt{
+  width:120px;
+  height:50px;
+  border-radius: 5px;
+  background-color:white;
+  color:rgb(2, 36, 36);
+  font-size: medium;
+  left:100px;
+  top:200px;
+  position:absolute;
+  
+}
+.txt1{
+  width:300px;
+  height:50px;
+ 
+  background-color:darkgray;
+  color:black;
+  font-size:large;
+  left:110px;
+  top:130px;
+  position:absolute;
+  text-transform:uppercase
+}
+.form1{
+  width:500px;
+  height:300px;
+  border-radius: 5px;
+  border-color: black;
+  background-color:rgb(26, 97, 97);
+  color:rgb(28, 165, 165);
+  font-size: medium;
+  left:300px;
+  top:200px;
+  position:absolute;
+  padding:30px;
+
+}
+
+.div-3{
+  width:400px;
+  height:600px;
+
+  margin: 6px;
+  padding:10px;
+  border-color:black;
+  left:100px;
+  top:250px;
+  border-width: 2px;
+  position:absolute;
+}
+
+.dlink{
+  text-decoration: none;
+  color:black;
+  background-color: transparent;
+  border: none;
+  font-size: larger;
+  font-weight: bolder;
+
+}
+.dlink:hover{
+  color:aliceblue; 
+}
+.emp-form{
+  width:500px;
+  height:380px;
+  border-radius: 5px;
+  border-color: black;
+  background-color:rgb(26, 97, 97);
+  color:rgb(28, 165, 165);
+  font-size: medium;
+  left:700px;
+  top:150px;
+  position:absolute;
+  padding:30px;
+ 
+}
+
+
+.etxt{
+  width:200px;
+  padding:10px;
+  margin:10px;
+  border-width: 2px;
+  border-color: blueviolet;
+  text-transform: capitalize;
+}
+.elbl{
+  margin:35px;
+
+  
+ 
+}
+.ebtn{
+  width:100px;
+  padding:8px;
+  margin:10px;
+  border-width: 2px;
+  border-color: blueviolet;
+  position:relative;
+  left:100px;
+  top:90px;
+
+}
+.emp-data{
+ 
+  border-color: black;
+  color:black;
+  font-size: medium;
+  position:relative;
+  left:700px;
+  top:400px;
+  padding:30px;
+}
+table, th, td {
+
+  border-width: 2px;
+  border-collapse: collapse;
+  padding:10px;
+  border:2px solid rgb(47, 12, 80);
+  margin:20px;
+  text-align: center;
+  color:blueviolet
+
+}
+.timer1{
+  color:white;
+  font-weight: 500px;
+  font-size:xx-large;
+  left:400px;
+  position:relative;
+}
+.timer2{
+  color:white;
+  font-weight: 500px;
+  font-size:xx-large;
+  left:350px;
+  top:20px;
+  position:relative;
+}
+#close{
+  position: relative;
+  top:-55px;
+left:140px;
+}
+#eclose{
+  position: relative;
+  top:-25px;
+left:500px;
+}
